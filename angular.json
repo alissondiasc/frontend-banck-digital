@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bankDigital"
+    }
+  },
+  "defaultProject": "bankDigital",
+  "cli": {
+    "analytics": false
+  }
 }
